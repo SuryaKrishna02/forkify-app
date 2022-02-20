@@ -12,7 +12,9 @@
   "devDependencies": {
     "@parcel/transformer-sass": "^2.2.1",
     "fractional": "^1.0.0",
-    "parcel": "^2.2.1"
+    "parcel": "^2.2.1",
+    "@babel/core": "^7.4.5",
+    "core-js": "^2.6.5"
   },
   "dependencies": {}
 }
