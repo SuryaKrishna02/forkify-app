@@ -2,7 +2,7 @@
 
 Recipe application with custom recipe uploads.
 
-Web application is deployed at: https://forkify-gsk.netlify.app/
+Web application is deployed at: https://gsk-forkify.netlify.app/
 
 ## Features include
 
